@@ -1,6 +1,6 @@
 :root {
   /* Основной цвет */
-  --text-color: #757575;
+  --text-color: #2b2626;
   /* Цвет фона */
   --background-color: #f5f4fa;
   --footer-bcg: #2f303a;
@@ -18,7 +18,7 @@ body {
   color: var(--text-color);
   background-color: var(--background-color);
 
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   letter-spacing: 0.03em;
 }
@@ -60,7 +60,7 @@ h3 {
 .logo {
   color: var(--logo-color);
 
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-size: 26px;
   line-height: 1.19;
   text-align: center;
@@ -127,11 +127,11 @@ h3 {
 .section .flex-container {
   align-items: flex-start;
 }
-.about-me {
+.main-text {
   width: 700px;
 }
 
-.about-me-item:not(:last-child) {
+.main-text-item:not(:last-child) {
   margin-bottom: 20px;
 }
 
