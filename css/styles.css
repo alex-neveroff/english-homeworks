@@ -103,13 +103,17 @@ h3 {
 /* Main */
 .title,
 .sub-title {
-  margin-bottom: 50px;
   color: var(--title-color);
+
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 50px;
 
   font-size: 36px;
   line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-align: center;
 }
 
 .sub-title {
