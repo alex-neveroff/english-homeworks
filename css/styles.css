@@ -67,6 +67,11 @@ h3 {
 }
 .menu {
   margin-left: auto;
+  flex-wrap: wrap;
+  gap: 10px 40px;
+}
+.menu-item {
+  flex-basis: calc((100% - 160px) / 5);
 }
 
 .menu-link {
@@ -74,17 +79,13 @@ h3 {
   color: inherit;
 
   display: block;
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 
   color: var(--header-color);
 
   font-weight: 500;
   line-height: 1.43;
-}
-
-.menu-item:not(:last-child) {
-  margin-right: 80px;
 }
 
 .menu-item .menu-link.current {
@@ -133,16 +134,19 @@ h3 {
 }
 .main-text {
   width: 700px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-text:not(:last-child) {
+  margin-bottom: 50px;
 }
 
 .main-text-item:not(:last-child) {
   margin-bottom: 20px;
 }
 
-.main-text {
-  margin-left: auto;
-  margin-right: auto;
-}
 /* Footer */
 .footer {
   background-color: var(--footer-bcg);
