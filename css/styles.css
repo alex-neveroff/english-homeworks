@@ -48,11 +48,13 @@ h3 {
 .flex-container {
   display: flex;
   align-items: center;
+  gap: 30px;
 }
 
 .section {
   padding-top: 60px;
   padding-bottom: 60px;
+  flex-shrink: 1;
 }
 
 /* Header */
@@ -150,9 +152,5 @@ h3 {
 /* Footer */
 .footer {
   background-color: var(--footer-bcg);
-}
-
-.footer .container {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  height: 80px;
 }
