@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/english-homeworks/static/css/main.6219de68.css",
+    "main.js": "/english-homeworks/static/js/main.cc3ffcad.js",
+    "index.html": "/english-homeworks/index.html",
+    "main.6219de68.css.map": "/english-homeworks/static/css/main.6219de68.css.map",
+    "main.cc3ffcad.js.map": "/english-homeworks/static/js/main.cc3ffcad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6219de68.css",
+    "static/js/main.cc3ffcad.js"
+  ]
+}
