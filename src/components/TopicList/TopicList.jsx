@@ -1,20 +1,30 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { List } from './TopicList.styled';
 
 function TopicList({ topics = [], onClick }) {
   return (
-    <ol className="list">
+    <List>
       {Array.isArray(topics) &&
         topics.length &&
         topics.map(topic => {
-          const { title, text, id } = topic;
+          const { title, id } = topic;
           return (
             <li className="list-item" key={id}>
-              <p onClick={() => onClick(title, text)}>{title}</p>
+              <a
+                className="list-link"
+                href="№"
+                onClick={event => {
+                  event.preventDefault();
+                  onClick(id);
+                }}
+              >
+                {title}
+              </a>
             </li>
           );
         })}
-    </ol>
+    </List>
   );
 }
 

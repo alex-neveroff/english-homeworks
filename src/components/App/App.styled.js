@@ -1,38 +1,67 @@
-.App {
-  text-align: center;
-}
+import styled from '@emotion/styled';
+import { vars } from 'variables/variables';
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+export const Container = styled.div`
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .listTitle {
+    color: ${vars.titleColor};
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+
+    letter-spacing: 0.03em;
+    font-size: 30px;
+    line-height: 1.17;
   }
-}
+`;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+export const Main = styled.main`
+  position: relative;
+  z-index: 1;
+  padding-bottom: 40px;
+  padding-top: 80px;
+`;
+
+export const Header = styled.header`
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 80px;
+  padding: 0 30px;
+  z-index: 10;
+
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  justify-content: space-between;
 
-.App-link {
-  color: #61dafb;
-}
+  background-color: ${vars.mainShadow};
+`;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+export const Menu = styled.nav`
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .menu {
+    border: none;
+    width: 150px;
+    height: 100%;
+    background-color: transparent;
+    color: ${vars.darkShadow};
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.43;
+    cursor: pointer;
+    &:hover {
+      color: ${vars.hoverColor};
+    }
+    &:disabled {
+      color: ${vars.focusShadow};
+      cursor: default;
+    }
   }
-  to {
-    transform: rotate(360deg);
-  }
-}
+`;

@@ -1,7 +1,8 @@
 import React from 'react';
+import { StyledFooter } from './Footer.styled';
 
 function Footer() {
-  return <footer></footer>;
+  return <StyledFooter />;
 }
 
 export default Footer;
