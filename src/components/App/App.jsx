@@ -25,6 +25,7 @@ export class App extends Component {
 
   previousTopic = () => {
     this.setState(prevState => ({ id: prevState.id - 1 }));
+    console.log(this.state.id);
   };
 
   nextTopic = () => {
