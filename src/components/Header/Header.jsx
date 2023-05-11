@@ -4,7 +4,7 @@ import Logo from 'components/Logo/Logo';
 export class Header extends Component {
   render() {
     return (
-      <header class="header">
+      <header className="header">
         <Logo />
         <button type="button" className="menu">
           Topics list

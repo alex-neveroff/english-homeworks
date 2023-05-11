@@ -1,15 +1,26 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
-function TopicList() {
+function TopicList({ topics = [], onClick }) {
   return (
-    <ol class="list">
-      <li class="list-item">
-        <a href="#" class="list-link">
-          Homework №1. Tell me about yourself
-        </a>
-      </li>
+    <ol className="list">
+      {Array.isArray(topics) &&
+        topics.length &&
+        topics.map(topic => {
+          const { title, text, id } = topic;
+          return (
+            <li className="list-item" key={id}>
+              <p onClick={() => onClick(title, text)}>{title}</p>
+            </li>
+          );
+        })}
     </ol>
   );
 }
+
+TopicList.propTypes = {
+  topics: PropTypes.array.isRequired,
+  onClick: PropTypes.func.isRequired,
+};
 
 export default TopicList;

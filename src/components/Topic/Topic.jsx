@@ -1,12 +1,18 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
-function Topic() {
+function Topic({ topicTitle, topicText }) {
   return (
     <div>
-      <h1>Title</h1>
-      Topic
+      <h2>{topicTitle}</h2>
+      {topicText}
     </div>
   );
 }
+
+Topic.propTypes = {
+  topicTitle: PropTypes.string.isRequired,
+  topicText: PropTypes.string.isRequired,
+};
 
 export default Topic;

@@ -2,7 +2,7 @@ import React from 'react';
 
 function Logo() {
   return (
-    <div class="logo">
+    <div className="logo">
       <p>English Homeworks of</p>
       <p>Alex Neveroff</p>
     </div>
