@@ -35,6 +35,7 @@
       "title": "What are your salary expectations?",
       "text": "First of all, I'm interested in getting a job in a strong team,because I want to grow constantly as a specialist. I'm open todiscussing about a fair salary for the position.\nHowever, I know the average salary for this type of entry-levelposition is in the $600-$800 range at that moment, and I'mexpecting a salary within that range.\nAgain, I am willing to be flexible and open to discussing thesenumbers with you, because I'm really interested in working foryour company in this role."
     },
+
     {
       "id": 8,
       "title": "What are your weaknesses?",
@@ -47,11 +48,16 @@
     },
     {
       "id": 10,
+      "title": "May we contact your previous employers?",
+      "text": "Of course, I don't see a problem with that. I have had great relationships with all my previous employers. Unfortunately, they won't be able to confirm my technical skills as a developer. But I am confident that they can tell about my soft skills and professional attitude towards work."
+    },
+    {
+      "id": 11,
       "title": "Tell me about a difficult/stressful situation at your workplace",
       "text": " current job is something like journalism. The authors write articles, the editor checks for keywords, the proofreader checks for grammatical errors, and I, as a picture editor, design and publish finished articles. All stages must go one after another, it is impossible to do in parallel.\nThe main difficulties in this work are related to deadlines. It often happens that you need to create an urgent article in just a couple of hours. And since my stage is the last one, sometimes there is too little time left for my part of the work. Therefore, from time to time it is necessary to ask colleagues to do faster - in the most correct, but convincing form.\nNow we have a wonderful team and all our problems are solved friendly and positively. We work on the principle \"It doesn't matter who is guilty, it is important to solve the problem.\" But early were several persons who preferred to spend time looking for the weakest employee. Ironically, most often these weak employees turned out to be theyself. Such people do not take root in a close-knit team, so there are almost no stressful situations at my work now. Just specific working moments."
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Tell about your biggest mistake at work",
       "text": "My biggest mistake at work was connected with copyright of photo. It happened about ten years ago. I decorated the article using photos from social networks. A few years later there was a law about using photos from social networks only with consent oh the author or with help of a widget. That article was old and nobody redo it. And the author of the photo wanted to sued and we had to pay a decent fine.\nIt was painful for me not only from a material point of view, but also morally, because I did not want to offend anyone. And I still feel embarrassed and ashamed of that incident.\nBut this mistake taught me to take a responsible approach to the contents - as to the property of a person. After that, I always indicate the owner of the photo or the source from where it was received."
     }
