@@ -13,7 +13,7 @@ function TopicList({ topics = [], onClick }) {
             <li className="list-item" key={id}>
               <a
                 className="list-link"
-                href="№"
+                href="./"
                 onClick={event => {
                   event.preventDefault();
                   onClick(id);
