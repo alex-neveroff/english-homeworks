@@ -20,9 +20,9 @@ const App = () => {
     setShowlist(true);
   };
 
-  const changeTopic = numb => {
-    setId(prevId => prevId + numb);
-  };
+  // const changeTopic = numb => {
+  //   setId(prevId => prevId + numb);
+  // };
 
   return (
     <Container>
@@ -35,9 +35,9 @@ const App = () => {
           <button
             className="menu"
             disabled={showlist || id === 1}
-            onClick={() => {
-              changeTopic(-1);
-            }}
+            // onClick={() => {
+            //   changeTopic(-1);
+            // }}
           >
             Previous topic
           </button>
@@ -45,9 +45,9 @@ const App = () => {
             type="button"
             className="menu"
             disabled={showlist || id === topics.length}
-            onClick={() => {
-              changeTopic(1);
-            }}
+            // onClick={() => {
+            //   changeTopic(1);
+            // }}
           >
             Next topic
           </button>

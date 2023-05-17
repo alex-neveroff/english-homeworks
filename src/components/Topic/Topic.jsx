@@ -9,6 +9,7 @@ const Topic = ({ topics, id }) => {
       {paragraph}
     </p>
   ));
+
   return (
     <>
       {topic && (
