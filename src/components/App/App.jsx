@@ -6,9 +6,8 @@ import Topic from 'components/Topic/Topic';
 import Logo from 'components/Logo/Logo';
 import { Container, Header, Main, Menu } from './App.styled';
 
-const topics = topicsJson.topics;
-
 const App = () => {
+  const topics = topicsJson.topics;
   const [showlist, setShowlist] = useState(true);
   const [id, setId] = useState(1);
 
@@ -36,7 +35,9 @@ const App = () => {
           <button
             className="menu"
             disabled={showlist || id === 1}
-            onClick={() => changeTopic(-1)}
+            onClick={() => {
+              changeTopic(-1);
+            }}
           >
             Previous topic
           </button>
@@ -44,7 +45,9 @@ const App = () => {
             type="button"
             className="menu"
             disabled={showlist || id === topics.length}
-            onClick={() => changeTopic(1)}
+            onClick={() => {
+              changeTopic(1);
+            }}
           >
             Next topic
           </button>
