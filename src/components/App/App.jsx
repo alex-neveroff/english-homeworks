@@ -6,8 +6,9 @@ import Topic from 'components/Topic/Topic';
 import Logo from 'components/Logo/Logo';
 import { Container, Header, Main, Menu } from './App.styled';
 
+const topics = topicsJson.topics;
+
 const App = () => {
-  const topics = topicsJson.topics;
   const [showlist, setShowlist] = useState(true);
   const [id, setId] = useState(1);
 
