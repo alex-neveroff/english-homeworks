@@ -1,7 +1,7 @@
 import React from 'react';
 import { Logotype } from './Logo.styled';
 
-function Logo() {
+const Logo = () => {
   return (
     <Logotype>
       <h1 className="logoTitle">
@@ -10,6 +10,6 @@ function Logo() {
       </h1>
     </Logotype>
   );
-}
+};
 
 export default Logo;

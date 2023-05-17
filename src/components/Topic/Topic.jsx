@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { TopicWrap } from './Topic.styled';
 
-function Topic({ topics, id }) {
+const Topic = ({ topics, id }) => {
   const topic = topics.find(topic => topic.id === id);
   const paragraphs = topic.text.split('\n').map((paragraph, index) => (
     <p className="main-text" key={index}>
@@ -19,7 +19,7 @@ function Topic({ topics, id }) {
       )}
     </>
   );
-}
+};
 
 Topic.propTypes = {
   topics: PropTypes.array.isRequired,

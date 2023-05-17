@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { List } from './TopicList.styled';
 
-function TopicList({ topics = [], onClick }) {
+const TopicList = ({ topics = [], onClick }) => {
   return (
     <List>
       {Array.isArray(topics) &&
@@ -26,7 +26,7 @@ function TopicList({ topics = [], onClick }) {
         })}
     </List>
   );
-}
+};
 
 TopicList.propTypes = {
   topics: PropTypes.array.isRequired,
