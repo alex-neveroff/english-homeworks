@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Tell me about yourself",
-      "text": "My name is Alexandr Neverov. I completed a Bachelor’s degree in Radioelectronics at Odessa Maritime Academy. I managed to get a job in a company selling computers and network equipment, where I developed my career and got promoted to the position of branch manager. One of my responsibilities was the organization and promotion of an online store. That was when I got interested in web technologies and decided to make a bold career shift.\nNow I’m a full-stack developer. I completed a course at GoIT school and mastered HTML, CSS, JavaScript, React and Node.js. I prefer to write new code at VSCode and definitely use the GitHub. I did about twenty successful projects. One of them was a my personal Music Library with frontend and backend parts.\n And I don't stop in my learning. Now, for example, I started learning TypeScript, then I plan to learn NestJS in order to study the backend in depth.\nAnd I really want to get a job in your company, because it gives the opportunity to develop and gain invaluable experience. I’m sure that I’ll be useful for your company because I like to create sites and to solve difficult tasks.\nI understand that I have too little experience in this field, but I have a great enthusiasm to learn and work as a full-stack developer. I’m scrupulous, attentive and punctual. I'm also a fast learner. I'm sure I'll benefit from that."
+      "text": "My name is Alexandr Neverov. I completed a Bachelor’s degree in Radioelectronics at Odessa Maritime Academy. I managed to get a job in a company selling computers and network equipment, where I developed my career and got promoted to the position of branch manager and content manager. One of my responsibilities was the organization and promotion of an online store. That was when I got interested in web technologies and decided to make a bold career shift.\nNow I’m a full-stack developer. I completed a course at GoIT school and mastered HTML, CSS, JavaScript, React and Node.js. I prefer to write new code at VSCode and definitely use the GitHub. I did about twenty successful projects. One of them was a my personal Music Library with frontend and backend parts.\n And I don't stop in my learning. Now, for example, I started learning TypeScript, then I plan to learn NestJS in order to study the backend in depth.\nAnd I really want to get a job in your company, because it gives the opportunity to develop and gain invaluable experience. I’m sure that I’ll be useful for your company because I like to create sites and to solve difficult tasks.\nI understand that I have no commercial experience, but I have a great enthusiasm to learn and work as a full-stack developer. I’m scrupulous, attentive and punctual. I'm also a fast learner. I'm sure I'll benefit from that."
     },
     {
       "id": 2,
@@ -13,17 +13,17 @@
     {
       "id": 3,
       "title": "What is the most important to you in a job?",
-      "text": "Two weeks ago I would have said that the most important is Job  security because it means employees don’t lose their job with a  very high probability.\nBut now I think differently.\nTwo last weeks I worked a couple of hours at night and a couple of  hours during the day and due to an emergency power outage, I  didn't know when these hours would come. I couldn't relax even at  night, couldn't properly prepare for work and study so I'm  disappointed with my results for this period.\nSo I think that the employees must have sufficient time for their  own lives. I mean that harmony is needed. Time for work, time for  study, time for family and leisure, including sleep. Yin and yang.  Then their efficiency at work will be the highest. Perfect  work/life balance almost guarantees high performance at work."
+      "text": "Before the war I would have said that the most important is Job  security because it means employees don’t lose their job with a very high probability.\nBut now I think differently.\nAt last autumn and winter I worked a couple of hours at night and a couple of  hours during the day and due to an emergency power outage, I  didn't know when these hours would come. I couldn't relax even at  night, couldn't properly prepare for work and study so I was  disappointed with my results for this period.\nSo I think that the employees must have sufficient time for their own lives. I mean that harmony is needed. Time for work, time for  study, time for family and leisure, including sleep. Yin and yang. Then their efficiency at work will be the highest. Perfect work/life balance almost guarantees high performance at work."
     },
     {
       "id": 4,
       "title": "What are your career development goals?",
-      "text": "My main goal in my career is to get a job as a junior developer ina big IT company. To achieve this, I’m going to expand myknowledge and improve my hard and soft skills.\nSo, I’m taking a course in fullstack development now and I code as often as I can. I do not only do individual projects, but team ones, too. It is so involving! I like when all team members distribute the tasks among themselves, deploy their best skills, brainstorm and architect the final decision.\nSo far, I have done two team projects and three personal ones.\nAlso, I find it necessary to constantly improve my English, so Istudy with a tutor, read literature in English and expand myvocabulary."
+      "text": "My main goal in my career is to get a job as a junior developer ina big IT company. To achieve this, I’m going to expand myknowledge and improve my hard and soft skills.\nSo, I took a course in fullstack development and I don't stop in my learning. Now, for example, I started learning TypeScript, then I plan to learn NestJS in order to study the backend in depth.\nI code as often as I can. I do not only do individual projects, but team ones, too. It is so involving! I like when all team members distribute the tasks among themselves, deploy their best skills, brainstorm and architect the final decision.\nSo far, I have done two team projects and three personal ones.\nAlso, I find it necessary to constantly improve my English, so I study with a tutor, read literature in English and expand my vocabulary.I also plan to take an in-depth English course in specialized courses in the near future."
     },
     {
       "id": 5,
       "title": "Why did you leave your previous job?",
-      "text": "My last job was related to copywriting and media content, which Imust upload on sites through the admin panel.\nI like my last job and wonderful team, but I lost my motivation todo that job. I understood that I want not only work with websites but create and develop them. And in the process of JavaScript studying, I realized that solving such tasks is mine.\nSo, I want not just to change jobs, but to change the profession."
+      "text": "My last job was related to copywriting and media content, which I must upload on sites through the admin panel.\nI like my last job and realy wonderful team, but I lost my motivation to do that job. I understood that I want not only work with websites but create and develop them. And in the process of JavaScript and Node.js studying, I realized that solving such tasks is mine.\nSo, I want not just to change jobs, but to change the profession."
     },
     {
       "id": 6,
@@ -33,7 +33,7 @@
     {
       "id": 7,
       "title": "What are your salary expectations?",
-      "text": "First of all, I'm interested in getting a job in a strong team, because I want to grow constantly as a specialist. I'm open to discussing about a fair salary for the position.\nHowever, I know the average salary for this type of entry-level position is in the $600-$800 range at that moment, and I'm expecting a salary within that range.\nAgain, I am willing to be flexible and open to discussing these numbers with you, because I'm really interested in working foryour company in this role."
+      "text": "First of all, I'm interested in getting a job in a strong team, because I want to grow constantly as a specialist. I'm open to discussing about a fair salary for the position.\nHowever, I know the average salary for this type of entry-level position is in the $600-$800 range at that moment, and I'm expecting a salary within that range.\nAgain, I am willing to be flexible and open to discussing these numbers with you, because I'm really interested in working for your company in this role."
     },
 
     {
@@ -68,6 +68,12 @@
     },
     {
       "id": 14,
+      "title": "Thank-you letter",
+      "text": "Thank you for the opportunity to interview for the junior developer role. I appreciated our discussion about beginner level of developer, and your oppoint on switchers was importent. I am genuinely excited about joining your company, and I believe my enthusiasm and aspirations aligns well with the position./nI look forward to hearing from you soon and discussing the next steps. Thank you again for your time and consideration. /nYours respectfully,/nAlex NeverOff"
+    },
+
+    {
+      "id": 15,
       "title": "Thank-you letter",
       "text": "Thank you for the opportunity to interview for the junior developer role. I appreciated our discussion about beginner level of developer, and your oppoint on switchers was importent. I am genuinely excited about joining your company, and I believe my enthusiasm and aspirations aligns well with the position./nI look forward to hearing from you soon and discussing the next steps. Thank you again for your time and consideration. /nYours respectfully,/nAlex NeverOff"
     }
