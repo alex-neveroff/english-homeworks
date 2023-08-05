@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Tell me about yourself",
-      "text": "My name is Alexandr Neverov. I completed a Bachelor’s degree in Radioelectronics at Odessa Maritime Academy. I managed to get a job in a company selling computers and network equipment, where I developed my career and got promoted to the position of branch manager. One of my responsibilities was the organization and promotion of an online store. That was when I got interested in web technologies and decided to make a bold career shift.\nNow I’m a full-stack developer. I completed a course at GoIT school and mastered HTML, CSS, JavaScript, Node.js, React. I prefer to write new code at VSCode and definitely use the GitHub. I did about twenty successful projects. One of them was a my personal Music Library.\nI really want to get a job in your company, because it gives the opportunity to develop and gain invaluable experience. I’m sure that I’ll be useful for your company because I like to create sites and to solve difficult tasks.\nI understand that I have too little experience in this field, but I have a great enthusiasm to learn and work as a full-stack developer. I’m scrupulous, attentive and punctual. I'm also a fast learner. I'm sure I'll benefit from that."
+      "text": "My name is Alexandr Neverov. I completed a Bachelor’s degree in Radioelectronics at Odessa Maritime Academy. I managed to get a job in a company selling computers and network equipment, where I developed my career and got promoted to the position of branch manager. One of my responsibilities was the organization and promotion of an online store. That was when I got interested in web technologies and decided to make a bold career shift.\nNow I’m a full-stack developer. I completed a course at GoIT school and mastered HTML, CSS, JavaScript, React and Node.js. I prefer to write new code at VSCode and definitely use the GitHub. I did about twenty successful projects. One of them was a my personal Music Library with frontend and backend parts.\n And I don't stop in my learning. Now, for example, I started learning TypeScript, then I plan to learn NestJS in order to study the backend in depth.\nAnd I really want to get a job in your company, because it gives the opportunity to develop and gain invaluable experience. I’m sure that I’ll be useful for your company because I like to create sites and to solve difficult tasks.\nI understand that I have too little experience in this field, but I have a great enthusiasm to learn and work as a full-stack developer. I’m scrupulous, attentive and punctual. I'm also a fast learner. I'm sure I'll benefit from that."
     },
     {
       "id": 2,
@@ -60,6 +60,16 @@
       "id": 12,
       "title": "Tell about your biggest mistake at work",
       "text": "My biggest mistake at work was connected with the copyright of photo. It happened about ten years ago. I decorated the article using photos from social networks. A few years later there was a law about using photos from social networks only with the consent oh the author or with help of a the widget. That article was old and nobody redo it. And the author of the photo wanted to sued and we had to pay a decent fine.\nIt was painful for me not only from a material point of view, but also morally, because I did not want to offend anyone. And I still feel embarrassed and ashamed of that incident.\nBut this mistake taught me to take a responsible approach to the contents - as to the property of a person. After that, I always indicate the owner of the photo or the source from where it was received."
+    },
+    {
+      "id": 13,
+      "title": "What questions would you ask your employer?",
+      "text": "I have two questions. At first: How do you currently support or mentor junior developers? And second: In case of the beginning of our cooperation with you, will it not be a problem if I have to work for 14 days at the previous place?"
+    },
+    {
+      "id": 14,
+      "title": "Thank-you letter",
+      "text": "Thank you for the opportunity to interview for the junior developer role. I appreciated our discussion about beginner level of developer, and your oppoint on switchers was importent. I am genuinely excited about joining your company, and I believe my enthusiasm and aspirations aligns well with the position./nI look forward to hearing from you soon and discussing the next steps. Thank you again for your time and consideration. /nYours respectfully,/nAlex NeverOff"
     }
   ]
 }
